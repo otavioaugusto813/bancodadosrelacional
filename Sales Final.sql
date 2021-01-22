@@ -131,7 +131,7 @@ INSERT INTO Fornecedores VALUES(5, 'Gabriel', 'Motorista', 2008, 6000, 'Brasil',
 
 
 INSERT INTO Funcionários VALUES(1,'Maura Soares','F',33,3452.12,'Brasil','Pernambuco','Caruaru','Jaboatao',18112331,'Carangola');
-INSERT INTO Funcionários VALUES(2,'Tulio Soares','M',19,1891.19,'Portugal','Braga','Braga','Paneleiros',13456,'Avenida');
+INSERT INTO Funcionários VALUES(2,'Tulio Soares','M',19,1891.19,'Portugal','Braga','Braga','Paneleiros',13456,'Rua');
 INSERT INTO Funcionários VALUES(3,'Saulo Matheus','M',56,1234.78,'Argentina','Cordoba','Serron','Sure',54622, 'Frei');
 INSERT INTO Funcionários VALUES(4,'Rubio Matthews','M',35,2290,'Ilha da Madeira','Galhos','Pele','Vigo',44171,'Cabo');
 INSERT INTO Funcionários VALUES(5,'Alana Cozin','F',45,8399,'Estados Unidos','Texas','Paris','London',52447,'Johnson');
